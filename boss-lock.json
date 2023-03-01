@@ -1,0 +1,54 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2023-02-25T09:53:57.4360159-03:00",
+	"installedModules": {
+		"github.com/hashload/handle-exception": {
+			"name": "handle-exception",
+			"version": "0.1.7",
+			"hash": "57eb698379cc2d4c24934e43d71779a9",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/horse": {
+			"name": "horse",
+			"version": "3.0.2",
+			"hash": "929cb417c573af469c997a7e1fda5dbb",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/horse-octet-stream": {
+			"name": "horse-octet-stream",
+			"version": "1.9.8",
+			"hash": "75ecf216bfa4aa33352202c5cd9a060d",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/jhonson": {
+			"name": "jhonson",
+			"version": "1.1.4",
+			"hash": "7f48e0509b98505a12fa80ee39b53aea",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/viniciussanchez/dataset-serialize": {
+			"name": "dataset-serialize",
+			"version": "v2.4.8",
+			"hash": "35c05c0196720756923c48da654e4817",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"https://github.com/viniciussanchez/bcrypt": {
+			"name": "bcrypt",
+			"version": "1.0.8",
+			"hash": "69891b745eb58d4f9803acfb84163313",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}

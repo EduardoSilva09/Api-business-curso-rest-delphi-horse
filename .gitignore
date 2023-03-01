@@ -1,0 +1,8 @@
+business.dproj.local
+*.res
+*.identcache
+__history
+__recovery
+lib
+modules
+Win32
