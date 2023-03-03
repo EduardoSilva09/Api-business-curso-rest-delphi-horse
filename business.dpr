@@ -5,6 +5,7 @@ program business;
 
 uses
   Horse,
+  Horse.JWT,
   System.JSON,
   Horse.Jhonson,
   Horse.OctetStream,
@@ -26,7 +27,8 @@ begin
   THorse
   .Use(Jhonson())
   .Use(HandleException)
-  .Use(OctetStream);
+  .Use(OctetStream)
+  .Use(HorseJWT('curso-rest-horse'));
   
   Controller.Produto.Registry;
   Controller.Cliente.Registry;
